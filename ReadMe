@@ -1,0 +1,1 @@
+1. 當時在學校的時候實作的功能, this APP is use Google MAP API, 他會汽車or保養場相關的key world與Latitude丟入Google MAP API, google以json 方式return, 最後將json 解包後就能取得我周遭有多少車輛維修場了
